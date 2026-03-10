@@ -18,4 +18,8 @@ Project Description:
  Tech Stack:
     1.Python
     2.zxcvbn ( Password strength estimation)
+
+ How to Run 
+ python PasswordGenerator.py
+ 
     
